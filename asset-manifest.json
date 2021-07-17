@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Todo-React-Redux/static/css/main.0eec86b7.chunk.css",
+    "main.js": "/Todo-React-Redux/static/js/main.5ad7166b.chunk.js",
+    "main.js.map": "/Todo-React-Redux/static/js/main.5ad7166b.chunk.js.map",
+    "runtime-main.js": "/Todo-React-Redux/static/js/runtime-main.c856ae1d.js",
+    "runtime-main.js.map": "/Todo-React-Redux/static/js/runtime-main.c856ae1d.js.map",
+    "static/js/2.a0e7408a.chunk.js": "/Todo-React-Redux/static/js/2.a0e7408a.chunk.js",
+    "static/js/2.a0e7408a.chunk.js.map": "/Todo-React-Redux/static/js/2.a0e7408a.chunk.js.map",
+    "index.html": "/Todo-React-Redux/index.html",
+    "static/css/main.0eec86b7.chunk.css.map": "/Todo-React-Redux/static/css/main.0eec86b7.chunk.css.map",
+    "static/js/2.a0e7408a.chunk.js.LICENSE.txt": "/Todo-React-Redux/static/js/2.a0e7408a.chunk.js.LICENSE.txt",
+    "static/media/cancel.4ef89c2f.svg": "/Todo-React-Redux/static/media/cancel.4ef89c2f.svg",
+    "static/media/checked.08385652.svg": "/Todo-React-Redux/static/media/checked.08385652.svg",
+    "static/media/list_decor.4e139c3c.svg": "/Todo-React-Redux/static/media/list_decor.4e139c3c.svg",
+    "static/media/plus-add2.210cd499.svg": "/Todo-React-Redux/static/media/plus-add2.210cd499.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c856ae1d.js",
+    "static/js/2.a0e7408a.chunk.js",
+    "static/css/main.0eec86b7.chunk.css",
+    "static/js/main.5ad7166b.chunk.js"
+  ]
+}
